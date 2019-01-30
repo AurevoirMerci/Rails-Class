@@ -12,7 +12,6 @@ Course.create(name: "Mathématiques")
 Course.create(name: "Géopolitique")
 
 Student.create(name: "Adrien", course_id: 1)
-Student.create(name: "Adrien", course_id: 2)
 Student.create(name: "Geoffrey", course_id: 1)
 Student.create(name: "Antoine", course_id: 2)
 
